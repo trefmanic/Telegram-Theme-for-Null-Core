@@ -309,7 +309,7 @@ msgWaveformInActive: windowBgActive;
 msgWaveformInActiveSelected: #51a3d3;
 msgWaveformInInactive: #d4dee6;
 msgWaveformInInactiveSelected: #9cc1e1;
-msgWaveformOutActive: #0A7B7B;
+msgWaveformOutActive: #096565;
 msgWaveformOutActiveSelected: #6badad;
 msgWaveformOutInactive: #A7D8D8;
 msgWaveformOutInactiveSelected: #91c3c3;
