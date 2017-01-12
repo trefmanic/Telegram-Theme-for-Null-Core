@@ -1,0 +1,1 @@
+# Null Core Telegram Theme
