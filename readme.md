@@ -1,1 +1,1 @@
-# Telegram Theme for [Null-Core-Cheat](https://nullcorecheat.net)
+# Telegram Theme for [Null Core Cheat](https://nullcorecheat.net)
