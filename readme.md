@@ -1,1 +1,4 @@
-# Telegram Theme for [Null Core Cheat](https://nullcorecheat.net)
+# XenCore
+
+Zenburn theme for Telegram Desktop / Android 
+
